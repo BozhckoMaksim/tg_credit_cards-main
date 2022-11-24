@@ -3,7 +3,7 @@ from telebot import TeleBot, types
 from faker import Faker
 
 
-bot = TeleBot(token='5783630876:AAGQ9ni4nISPNqtW0ewAgpFLW9iZfcnRyj0', parse_mode='html') 
+bot = TeleBot(token='nani', parse_mode='html') 
 
 faker = Faker() 
 
